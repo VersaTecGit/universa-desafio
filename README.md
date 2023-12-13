@@ -1,5 +1,4 @@
-# universa-desafio
-Desafio para Universa Soluções Educacionas
+# Desafio para Universa Soluções Educacionas
 
 ## Instruções para iniciar o desafio
 Requisitos docker-composer instalado
